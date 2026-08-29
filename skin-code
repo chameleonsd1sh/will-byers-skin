@@ -1,0 +1,589 @@
+#header h1 sup,
+#greeting .icon,
+#header .button,
+#header .landmark,
+#header .logo {
+  display: none;
+}
+
+#header,
+#inner.wrapper {
+  margin: 0em 4%;
+}
+
+#main,
+#inner.wrapper,
+.listbox .index,
+.work.own,
+.thread .even {
+  background: #FFF9E6;
+  border-radius: 4px;
+}
+
+#outer.wrapper {
+  background: #F7E6D2;
+  padding-top: 50px;
+  background-image: url("https://i.postimg.cc/G3BKSZcQ/flannel-bg.jpg");
+  background-size: 30.7% auto;
+  background-repeat: repeat;
+  background-position: center top;
+}
+
+#header {
+  background-image: url('https://i.postimg.cc/W1xf5TZw/hare-bg.jpg');
+  background-repeat: repeat;
+  background-position: auto;
+  background-size: auto 175px;
+  background-color: #3A332C;
+}
+
+#header .heading {
+  margin: 20px 0px 10px 20px;
+  border: 2px solid #9E6D31;
+  background-color: #D4A55A;
+  border-radius: 20px;
+  width: 100px;
+  height: 100px;
+  display: block;
+}
+
+#header {
+  background-color: #FBE4C9;
+  border-radius: 20px;
+  border: 10px solid #9E6D31;
+  box-shadow: 0 0 4px #000;
+}
+
+#header .primary {
+  box-shadow: none;
+  background: none;
+  color: #3A240D;
+}
+
+#header .primary li:first-child {
+  margin-left: 0em;
+}
+
+#header .primary li,
+#header .primary li a,
+#greeting li,
+#greeting li a {
+  color: #3A240D;
+}
+
+#header .heading a {
+  color: #D4A55A;
+  font-size: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#header h1.heading a::after {
+  content: "";
+  display: block;
+  width: 100px;
+  height: 100px;
+  background: url("https://i.postimg.cc/9Qrsc7Mx/will-eye.jpg") no-repeat center;
+  background-size: contain;
+  border-radius: 25px;
+}
+
+#greeting {
+  background: none;
+  margin-right: 0em;
+  color: #3A240D;
+  padding: 20px;
+}
+
+#greeting li {
+  clear: left;
+  border-bottom: 1px dashed #3A240D;
+  margin-top: 0.3em;
+}
+
+#greeting .icon img {
+  margin-top: 0.3em;
+  border: 2px solid #fff;
+}
+
+#greeting .dropdown .menu li {
+  margin: 0 0.125em;
+}
+
+#greeting .menu {
+  width: 16em;
+}
+
+#footer .menu a,
+#footer .menu {
+  color: #fff;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #B5753C;
+}
+
+#footer {
+  border: none;
+  background: none;
+}
+
+.blurb h4 a:link,
+#footer h4 {
+  color: #B5753C;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #D4A55A;
+  color: #fff;
+}
+
+a.tag,
+a.tag:visited,
+a.tag:link,
+li.added.tag {
+  display: inline-block;
+  padding-top: 2px;
+  padding-right: 7px;
+  padding-bottom: 2px;
+  padding-left: 4px;
+  margin: 2px 0px;
+  border-radius: 8px;
+  border: 1px solid #D4BFA7;
+  color: #59483F;
+}
+
+a.tag:hover {
+  background: url("https://i.postimg.cc/76N1TKhx/paper-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #EBD1A2;
+  color: #000;
+}
+
+#dashboard,
+#dashboard.own {
+  background: #FBE4C9;
+  color: #000;
+  border: 2px solid #D4A55A;
+  box-shadow: 0 0 2px #000;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #D4A55A;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  box-shadow: none;
+  background: #EBD1A2;
+  color: #000;
+}
+
+#dashboard ul {
+  background: transparent;
+  border: none;
+}
+
+#dashboard .secondary {
+  background-color: #fff;
+  box-shadow: none;
+}
+
+.splash .module h3,
+.splash .news li,
+.home .header h2,
+li.comment,
+dl.meta,
+.bookmark .user,
+#header .menu li,
+#dashboard ul,
+#dashboard .secondary,
+ul.notes,
+.flash,
+.notice,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #D4A55A;
+}
+
+.comment h4.byline,
+#main .verbose legend,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+.verbose fieldset,
+.draft,
+form ul.notes,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background-color: #E4C39B;
+  border-color: #D4A55A;
+}
+
+.flash,
+.notice {
+  background-color: #E4C39B;
+  border-color: #000;
+}
+
+form .notice,
+ul.notes,
+.caution {
+  background-color: #FFECD6;
+  border-color: #234075;
+}
+
+.alert.flash,
+.error,
+.comment_error,
+.kudos_error {
+  background: #EFDAD1;
+  color: #000;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+.bookmark .user,
+.bookmark .user .header,
+.reading h4.viewed,
+li.relationships a,
+.dropdown,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete {
+  background-color: #EBD1A2;
+}
+
+.bookmark .user {
+  border-radius: 5px;
+}
+
+.filters .submit input {
+  color: #FFF;
+  background: #D4A55A;
+  border: 1px solid #EBD1A2;
+  border-radius: 10px;
+  box-shadow: 0 0 4px #000;
+}
+
+.filters fieldset {
+  border-radius: 20px;
+}
+
+li.blurb,
+.listbox li.blurb,
+li.comment,
+.statistics .index li:nth-of-type(even),
+dl.meta,
+dl.index dd,
+#ibox_wrapper,
+#ibox_content,
+textarea:focus,
+input:focus,
+select:focus {
+  background-color: #FBE4C9;
+}
+
+textarea,
+input,
+select,
+option,
+.toggled form,
+.dynamic form,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input {
+  background-color: #fff;
+}
+
+li.blurb,
+.listbox li.blurb {
+  border: 4px solid #D4A55A;
+  border-radius: 20px;
+  box-shadow: none;
+}
+
+.blurb .header {
+  border-bottom: 2px solid #D4A55A;
+}
+
+.bookmark .user .module {
+  border: none;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  box-shadow: none;
+}
+
+.reading h4.viewed {
+  border: 1px dashed #3A240D;
+}
+
+.icon {
+  border: 2px solid #fff;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+.workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.7em;
+  color: #B5753C;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "⚠️ ";
+  color: #3A240D;
+  font-family: Georgia, serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "✨ ";
+  color: #3A240D;
+  font-family: Georgia, serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "✨ ";
+  color: #3A240D;
+  font-family: Georgia, serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "✨ ";
+  color: #3A240D;
+  font-family: Georgia, serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "✨ ";
+  color: #3A240D;
+  font-family: Georgia, serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "✨ ";
+  color: #3A240D;
+  font-family: Georgia, serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "✨ ";
+  color: #3A240D;
+  font-family: Georgia, serif;
+  font-weight: 600;
+}
+
+ul.tags li.relationships a {
+  color: #B5753C;
+}
+
+.home .primary .icon {
+  width: 90px;
+  height: 90px;
+}
+
+.home .primary .icon::after {
+  background-image: url("https://i.postimg.cc/4NYtJf6Z/popsicle-frame.png");
+  background-size: 135px 135px;
+  display: inline-block;
+  width: 135px;
+  height: 135px;
+  content: "";
+  position: absolute;
+  left: -20px;
+  top: -19px;
+  z-index: 1;
+}
+
+li.blurb,
+.listbox li.blurb {
+  border: 20px solid transparent;
+  border-image: url("https://i.postimg.cc/3RScMrhr/newspaper-border.png") 10% round;
+}
+
+li.comment:not(.child) {
+  border: 15px solid transparent;
+  border-image: url("https://i.postimg.cc/3RScMrhr/newspaper-border.png") 10% round;
+  margin-bottom: 1em;
+}
+
+#workskin {
+  text-align: justify;
+  border: 30px solid transparent;
+  border-image: url("https://i.postimg.cc/3RScMrhr/newspaper-border.png") 10% round;
+  margin-top: 2em;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+.actions button,
+.actions input,
+input[type="submit"],
+button,
+.actions label {
+  background: url("https://i.postimg.cc/76N1TKhx/paper-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #111;
+  font-size: 100%;
+  border: 1px solid #D4A55A;
+  box-shadow: none;
+  z-index: 1;
+}
+
+#site_search {
+  color: #111;
+  background: url("https://i.postimg.cc/76N1TKhx/paper-bg.jpg");
+  border-color: #F7E6D2;
+  box-shadow: inset 1px 1px 3px #333;
+}
+
+.actions a:active,
+.current,
+a.current,
+a:link.current,
+.current a:visited {
+  color: #111;
+  background: url("https://i.postimg.cc/76N1TKhx/paper-bg.jpg");
+  border-color: #D4A55A;
+  box-shadow: inset 1px 1px 3px #333;
+}
+
+.actions a:hover,
+.actions button:hover,
+.actions input:hover,
+.actions a:focus,
+.actions button:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus {
+  color: #9E6D31;
+  border-top: 1px solid #3A332C;
+  border-left: 1px solid #3A332C;
+  border-bottom: 1px solid #D4A55A;
+  border-right: 1px solid #D4A55A;
+  box-shadow: inset 2px 2px 2px rgba(212, 165, 90, 0.5);
+}
+
+.userstuff p.font-claude-response-body {
+  background: #ffcccc !important;
+  color: #000000 !important;
+  display: block !important;
+}
+
+body:has(.userstuff p.font-claude-response-body) #workskin,
+body:has(.userstuff p.font-claude-response-body) #workskin * {
+  color: #ff0000 !important;
+}
+
+body:has(.userstuff p.font-claude-response-body) .preface .title {
+  color: #ff0000 !important;
+}
