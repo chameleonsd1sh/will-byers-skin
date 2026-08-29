@@ -1,3 +1,4 @@
+- this skin was frankensteined from small parts of skins i love, but mainly "[Cherry Picnic](https://github.com/sorakissed/ao3skins/blob/main/Cherry%20Picnic%20-%20Blue%20Vintage%20ver.%20code)" was the code i based it on!!
 - all my skins have a bit of code at the end that catches signs of people copy-pasting directly from claude, to catch the clumsiest AI users.
 
 1. copy all the code (there is a copy button!)
