@@ -1,4 +1,4 @@
-- all my skins have a bit of code at the end that catch signs of people copy-pasting directly from claude, to catch the clumsiest AI users.
+- all my skins have a bit of code at the end that catches signs of people copy-pasting directly from claude, to catch the clumsiest AI users.
 
 1. copy all the code (there is a copy button!)
 2. sign in to ao3 (you need an account!!)
