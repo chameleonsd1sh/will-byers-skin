@@ -385,10 +385,6 @@ li.blurb,
   border: 1px dashed #3A240D;
 }
 
-.icon {
-  border: 2px solid #fff;
-}
-
 .comment div.icon {
   border-bottom: none;
 }
